@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Location</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_activity_maps_tracking">Map</string>
+    <string name="title_activity_map_tracking">Map</string>
+</resources>
